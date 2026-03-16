@@ -1,16 +1,36 @@
-# Indomie-Tool
-Masih tes, maaf kalo banyak bugnya🙏
-# 1. Clone repository
-git clone https://github.com/kipasangin15/Indomie-Tool.git
 
-# 2. Masuk folder
-cd Indomie-Tool
+# ⚠️ PROJECT OFFICIALLY TERMINATED ⚠️
 
-# 3. Jalankan installer
-bash install.sh
+> "Terkadang, langkah terbaik untuk maju adalah dengan tahu kapan harus berhenti."
 
-# 4. Kasih izin eksekusi
-chmod +x indomie.py
+### **[ STATUS: INACTIVE / ARCHIVED ]**
 
-# 5. JALANKAN!
-./indomie.py
+Project **Indomie-Tool** secara resmi telah **DIHENTIKAN TOTAL** dan seluruh kode sumbernya telah dihapus secara permanen dari repositori ini.
+
+---
+
+### **MENGAPA PROJECT INI BERHENTI?**
+
+Keputusan ini diambil setelah pertimbangan mendalam mengenai prioritas dan kondisi saat ini:
+
+1. **Burnout & Kelelahan:** Saya telah sampai pada titik jenuh yang luar biasa. Mengelola dan mengembangkan project ini tidak lagi memberikan kebahagiaan, melainkan beban mental yang berat. **Saya sudah lelah.**
+2. **Perubahan Fokus:** Energi saya kini dialihkan untuk hal-hal yang lebih bermakna bagi perkembangan diri saya di luar dunia coding yang melelahkan ini.
+3. **Pembersihan Infrastruktur:** Repositori ini telah dibersihkan untuk mencegah penyalahgunaan kode yang sudah tidak dipelihara lagi.
+
+---
+
+### **LOG AKTIVITAS TERAKHIR**
+- [x] **Source Code Wipe:** Seluruh direktori dan file telah dihapus secara permanen.
+- [x] **Automation Disable:** GitHub Actions build workflow telah dinonaktifkan.
+- [x] **Final Message:** README ini adalah satu-satunya file yang tersisa sebagai catatan sejarah.
+
+---
+
+Terima kasih kepada siapa pun yang pernah terlibat atau menggunakan project ini. Mohon maaf atas ketidaknyamanan ini, namun kesehatan mental dan ketenangan pikiran adalah prioritas utama saat ini.
+
+**Salam Terakhir,**
+**BARZ-DEV**
+*(Authorized System Cleaner)*
+
+---
+*Last updated: Monday, March 16, 2026*
